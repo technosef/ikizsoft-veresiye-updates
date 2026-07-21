@@ -1,0 +1,8 @@
+{
+  "version": "1.0.5",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.5/VeresiyeDefteriSetup.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.5",
+  "sha256": "9567ECBCE1CBD5BAE1A7098FBC7059F430110347217196C1DE9E77EF57D626AD",
+  "required": false,
+  "release_notes": "Güncelleme altyapısı ücretsiz GitHub Releases kanalına taşındı."
+}
