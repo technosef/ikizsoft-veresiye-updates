@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.5/VeresiyeDefteriSetup.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.5",
-  "sha256": "9567ECBCE1CBD5BAE1A7098FBC7059F430110347217196C1DE9E77EF57D626AD",
+  "version": "1.0.6",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.6/VeresiyeDefteriSetup.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.6",
+  "sha256": "F6EF2F4259C14BB27660D866EE8DC25515DB4DB65F0EDD3BA1D4FBDFA4BC289D",
   "required": false,
-  "release_notes": "Güncelleme altyapısı ücretsiz GitHub Releases kanalına taşındı."
+  "release_notes": "Şifre değiştirme penceresindeki kırpılma giderildi; tüm alanlar ve kaydet düğmesi görünür hale getirildi."
 }
