@@ -1,8 +1,8 @@
-{
-  "version": "1.0.6",
-  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.6/VeresiyeDefteriSetup.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.6",
-  "sha256": "F6EF2F4259C14BB27660D866EE8DC25515DB4DB65F0EDD3BA1D4FBDFA4BC289D",
-  "required": false,
-  "release_notes": "Şifre değiştirme penceresindeki kırpılma giderildi; tüm alanlar ve kaydet düğmesi görünür hale getirildi."
+﻿{
+    "version":  "1.0.7",
+    "package_url":  "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.7/VeresiyeDefteriSetup.zip",
+    "installer_url":  "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.7",
+    "sha256":  "EE03214BC1838BA1B1FD913D81C1FD9787EE2D6DD1A8515A5B95148D9F526664",
+    "required":  false,
+    "release_notes":  "Ana ekranda müşteri ekstresi çift tıklama davranışı ve müşteri detay işlem butonları düzeltildi. Güncelleme paketi install.cmd ile otomatik kurulacak şekilde hazırlandı."
 }
