@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.7/VeresiyeDefteriSetup.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.7",
-  "sha256": "EE03214BC1838BA1B1FD913D81C1FD9787EE2D6DD1A8515A5B95148D9F526664",
+  "version": "1.0.8",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.8/VeresiyeDefteriSetup.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.8",
+  "sha256": "91F1CC1B3B3351455CF9B8BB59CEF7C77A460BBB49708B303B0FC9B1DB8D6074",
   "required": false,
-  "release_notes": "Ana ekranda müşteri ekstresi çift tıklama davranışı ve müşteri detay işlem butonları düzeltildi. Güncelleme paketi install.cmd ile otomatik kurulacak şekilde hazırlandı."
+  "release_notes": "WhatsApp gönderimi telefon doğrulama, pano mesajı ve ekstre dosyası hazırlama ile güçlendirildi. Ana ekranda sağ tık satır seçimi düzeltildi. Güncelleme paketi doğrulaması ve SQLite güvenlik paketi güncellendi."
 }
