@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
-  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.9/VeresiyeDefteriSetup.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.9",
-  "sha256": "3A244C893E8A9DDCF45F8E1E2932F758AB7D252574497BEF9B5DD762C1D16592",
+  "version": "1.0.10",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.10/VeresiyeDefteriSetup.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.10",
+  "sha256": "5D2D8E17E24ACE18AF99F52A165F4EBC4ED8E1BDBF9E2AAC8916FA74699BF2C3",
   "required": false,
-  "release_notes": "Yedekleme formatı düzeltildi: yeni alınan .2z yedekler artık başka Windows kullanıcısı veya bilgisayarda geri yüklenebilir taşınabilir korumalı formatta oluşturulur. Eski aynı-kullanıcı .2z yedeklerle uyumluluk korunur."
+  "release_notes": "Windows kullanıcı kilidi kaldırıldı: ledger.2z, auth.2z ve yeni yedek .2z dosyaları artık farklı Windows kullanıcısı veya bilgisayara taşınabilir kilitsiz korumalı formatta yazılır. Eski DPAPI dosyalar aynı kullanıcıda açılırsa otomatik yeni formata çevrilir."
 }
