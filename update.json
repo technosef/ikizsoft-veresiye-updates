@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.9",
-    "package_url":  "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.9/VeresiyeDefteriSetup.zip",
-    "installer_url":  "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.9",
-    "sha256":  "E2A74FC70FD1C7944BBD72432E458AF98A453BECC93C74CE6E280CDEF7EA3233",
-    "required":  false,
-    "release_notes":  "Yedekleme formatı düzeltildi: yeni alınan .2z yedekler artık başka Windows kullanıcısı veya bilgisayarda geri yüklenebilir taşınabilir korumalı formatta oluşturulur. Eski aynı-kullanıcı .2z yedeklerle uyumluluk korunur. Sürüm 1.0.9."
+  "version": "1.0.9",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.9/VeresiyeDefteriSetup.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.9",
+  "sha256": "3A244C893E8A9DDCF45F8E1E2932F758AB7D252574497BEF9B5DD762C1D16592",
+  "required": false,
+  "release_notes": "Yedekleme formatı düzeltildi: yeni alınan .2z yedekler artık başka Windows kullanıcısı veya bilgisayarda geri yüklenebilir taşınabilir korumalı formatta oluşturulur. Eski aynı-kullanıcı .2z yedeklerle uyumluluk korunur."
 }
