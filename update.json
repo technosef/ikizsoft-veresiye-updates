@@ -1,8 +1,8 @@
 {
-  "version": "1.0.13",
-  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.13/VeresiyeDefteriSetup.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.13",
-  "sha256": "12A18377B021FD4BE8CD6B1F7F16CE1A33859C4278DDF18DE2B70D5619CA001F",
+  "version": "1.0.14",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.14/VeresiyeDefteriSetup.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.14",
+  "sha256": "F5ADC9D52526190CE417F66708ACFB0DD8798F7F1E6DCBEDD0C9947194F49B00",
   "required": false,
-  "release_notes": "Ekstre ekranında Açıklama / Not sütunu İşlem Tipi sütununun hemen arkasına taşındı. Aynı sıra yazdırma önizlemesi, Excel aktarımı ve WhatsApp için oluşturulan ekstre dosyasında da uygulandı."
+  "release_notes": "Cari limit alanı müşteri formu, ana liste, rapor ekranı ve Excel cari raporundan kaldırıldı. WhatsApp gönderiminde öncelikli hedef kullanan firmanın kayıtlı cep telefonudur. Müşteriye Ekstre düğmesi müşteri telefonunu kullanır; telefon boş veya geçersizse uyarı gösterir."
 }
