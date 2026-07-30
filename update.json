@@ -1,8 +1,8 @@
 {
-  "version": "1.0.11",
-  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.11/VeresiyeDefteriSetup.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.11",
-  "sha256": "ACD8A7E22C1C0696B0BF23D8E64A23FCA0B16E4A070265D504CD4E6EDBF40F3B",
+  "version": "1.0.12",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.12/VeresiyeDefteriSetup.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.12",
+  "sha256": "17612EDBE01FD258BF23A42BC067DDC5D99E6812DC7739AF25DD6D4CADE4EAA7",
   "required": false,
-  "release_notes": "Çift tıklama kilitlenmesi düzeltildi: ana ekranda müşteri detayı ve müşteri detayında hareket düzenleme pencereleri artık input olayı bittikten sonra açılır; hızlı çift tıklamada ikinci pencere açılışı engellenir."
+  "release_notes": "Müşteri kartı düzenleme geliştirildi: telefon, yetkili, şehir, adres, limit ve not bilgileri Yeni Müşteri, Tüm Müşteriler ve Müşteri Detayı ekranlarından düzenlenebilir."
 }
