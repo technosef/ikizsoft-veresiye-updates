@@ -1,8 +1,8 @@
 {
-  "version": "1.0.14",
-  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.14/VeresiyeDefteriSetup.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.14",
-  "sha256": "F5ADC9D52526190CE417F66708ACFB0DD8798F7F1E6DCBEDD0C9947194F49B00",
+  "version": "1.0.16",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.16/VeresiyeDefteri_Kurulum.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.16",
+  "sha256": "",
   "required": false,
-  "release_notes": "Cari limit alanı müşteri formu, ana liste, rapor ekranı ve Excel cari raporundan kaldırıldı. WhatsApp gönderiminde öncelikli hedef kullanan firmanın kayıtlı cep telefonudur. Müşteriye Ekstre düğmesi müşteri telefonunu kullanır; telefon boş veya geçersizse uyarı gösterir."
+  "release_notes": "Raporlar sekmesine başlangıç ve bitiş tarihleri için filtreleme eklendi, böylece dönemsel borç, tahsilat ve bakiye takibi yapılabilir. Ayrıca Inno Setup zorunluluğunu kaldıran yeni taşınabilir kurulum paketine (ZIP) geçiş yapıldı."
 }
