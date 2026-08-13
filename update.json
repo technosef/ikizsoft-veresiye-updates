@@ -1,7 +1,7 @@
 {
-  "version": "1.0.19",
-  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.19/VeresiyeDefteri_Kurulum.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.19",
+  "version": "1.0.20",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.20/VeresiyeDefteri_Kurulum.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.20",
   "sha256": "",
   "required": false,
   "release_notes": "Raporlar sekmesine başlangıç ve bitiş tarihleri için filtreleme eklendi, böylece dönemsel borç, tahsilat ve bakiye takibi yapılabilir. Ayrıca Inno Setup zorunluluğunu kaldıran yeni taşınabilir kurulum paketine (ZIP) geçiş yapıldı."
