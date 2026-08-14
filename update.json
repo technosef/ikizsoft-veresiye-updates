@@ -1,8 +1,8 @@
 {
-  "version": "1.0.22",
-  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.22/VeresiyeDefteri_Kurulum.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.22",
+  "version": "1.0.23",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.23/VeresiyeDefteri_Kurulum.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.23",
   "sha256": "",
   "required": false,
-  "release_notes": "Eski EXA yedekleme dosyalarından (sıkıştırılmış arşiv) veri aktarımı özelliği Claude entegrasyonu ile eklendi."
+  "release_notes": "Otomatik güncelleme sisteminin 'Kontrol ediliyor...' ekranında kalmasına neden olan indirme zaman aşımı hatası ve eksik kurulum scripti sorunu giderildi."
 }
