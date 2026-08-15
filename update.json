@@ -1,8 +1,8 @@
 {
-  "version": "1.0.23",
-  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.23/VeresiyeDefteri_Kurulum.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.23",
+  "version": "1.0.24",
+  "package_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.24/VeresiyeDefteri_Kurulum.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/tag/v1.0.24",
   "sha256": "",
   "required": false,
-  "release_notes": "Otomatik güncelleme sisteminin 'Kontrol ediliyor...' ekranında kalmasına neden olan indirme zaman aşımı hatası ve eksik kurulum scripti sorunu giderildi."
+  "release_notes": "Dışarıdan veri aktarımında (EXA vb.) tutarı 0 (fiyat girilmemiş) olan veresiye kayıtlarının da içeri alınması sağlandı."
 }
