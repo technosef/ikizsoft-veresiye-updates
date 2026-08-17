@@ -1,9 +1,9 @@
-{
-  "version": "1.0.26",
+﻿{
+  "version": "1.0.27",
   "package_url": "",
-  "package_url_v2": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.26/VeresiyeDefteri_Kurulum.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.26/VeresiyeDefteri_Kurulum.zip",
+  "package_url_v2": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.27/VeresiyeDefteri_Kurulum.zip",
+  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.27/VeresiyeDefteri_Kurulum_Setup.exe",
   "sha256": "",
   "required": false,
-  "release_notes": "Sürüm 1.0.21'deki bozuk otomatik güncelleme sistemi tamamen devredışı bırakıldı. 1.0.21 kullanıcıları için güncelleme direkt tarayıcıdan indirilecek."
+  "release_notes": "1.0.27: Müşteriyi ve tüm hareketlerini kalıcı olarak silme özelliği eklendi. Inno Setup ile hazırlanan oyun kurar gibi çalışan temiz kurulum dosyası (.exe) ile dağıtım sağlandı."
 }
