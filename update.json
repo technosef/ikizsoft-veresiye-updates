@@ -1,9 +1,9 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.36",
   "package_url": "",
-  "package_url_v2": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.28/VeresiyeDefteri_Kurulum.zip",
-  "installer_url": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.28/VeresiyeDefteri_Kurulum_Setup.exe",
-  "sha256": "",
+  "package_url_v2": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.36/VeresiyeDefteri_Kurulum.zip",
+  "installer_url": "",
+  "sha256": "3A7945DD2C89E6B152DCF4B031DB2A1E3C9A4261CB21D4E6EF3EA6EB59BF0D41",
   "required": false,
-  "release_notes": "1.0.28: Firma ve yetkili bilgileri senkronizasyonu, kurulum takip altyapısı ve kararlılık güncellemeleri yapıldı."
+  "release_notes": "1.0.36: Büyük defterlerde rapor hesaplama ve başlangıç performansı iyileştirildi. Çift açılma engellendi, müşteri listesi sanallaştırıldı ve bulut eşitlemesi açılışta gereksiz yük oluşturmuyor."
 }
