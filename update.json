@@ -1,9 +1,9 @@
 {
-  "version": "1.0.36",
+  "version": "1.0.37",
   "package_url": "",
-  "package_url_v2": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.36/VeresiyeDefteri_Kurulum.zip",
+  "package_url_v2": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.37/VeresiyeDefteri_Kurulum.zip",
   "installer_url": "",
-  "sha256": "3A7945DD2C89E6B152DCF4B031DB2A1E3C9A4261CB21D4E6EF3EA6EB59BF0D41",
+  "sha256": "AD41FB1D9580D70FCF3EE35EE18D416C973F51CE737DC8CD84B1C068F2270564",
   "required": false,
-  "release_notes": "1.0.36: Büyük defterlerde rapor hesaplama ve başlangıç performansı iyileştirildi. Çift açılma engellendi, müşteri listesi sanallaştırıldı ve bulut eşitlemesi açılışta gereksiz yük oluşturmuyor."
+  "release_notes": "1.0.37: Borç ve tahsilat ekranındaki açıklama önerileri hızlandırıldı. Yazarken veya silerken bekleme yapmaz; en fazla 12 uygun öneri gösterilir."
 }
