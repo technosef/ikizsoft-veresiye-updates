@@ -1,9 +1,9 @@
 {
-  "version": "1.0.37",
+  "version": "1.0.38",
   "package_url": "",
-  "package_url_v2": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.37/VeresiyeDefteri_Kurulum.zip",
+  "package_url_v2": "https://github.com/technosef/ikizsoft-veresiye-updates/releases/download/v1.0.38/VeresiyeDefteri_Kurulum.zip",
   "installer_url": "",
-  "sha256": "AD41FB1D9580D70FCF3EE35EE18D416C973F51CE737DC8CD84B1C068F2270564",
+  "sha256": "E66F168D3F435B7A5CE12CD1A21BBF94EAEEC1707F758CA49EA60768DCA2B30C",
   "required": false,
-  "release_notes": "1.0.37: Borç ve tahsilat ekranındaki açıklama önerileri hızlandırıldı. Yazarken veya silerken bekleme yapmaz; en fazla 12 uygun öneri gösterilir."
+  "release_notes": "1.0.38: Hareket girişindeki açıklama alanında öneriler yenilenirken metnin, imlecin ve seçili bölümün korunması sağlandı. İlk harf, yapıştırma ve seçili açıklamayı düzenleme sırasında metin kaybına yönelik düzeltme yapıldı."
 }
